@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My Site Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
+        <link>https://your-docusaurus-site.example.com/food-blog/blog</link>
         <description>My Site Blog</description>
         <lastBuildDate>Tue, 01 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,25 +10,25 @@
         <language>en</language>
         <item>
             <title><![CDATA[Andy's Lunchroom]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/andys</link>
-            <guid>https://your-docusaurus-site.example.com/blog/andys</guid>
+            <link>https://your-docusaurus-site.example.com/food-blog/blog/andys</link>
+            <guid>https://your-docusaurus-site.example.com/food-blog/blog/andys</guid>
             <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Vandaag gingen we naar Andy's lunchroom. Een snacktent naast station Alkmaar Noord, en bekend om hun beste **hotdogs van Europa!**]]></description>
             <content:encoded><![CDATA[<p>Vandaag gingen we naar <a href="https://www.andyslunchroom.nl/" target="_blank" rel="noopener noreferrer">Andy's lunchroom</a>. Een snacktent naast station Alkmaar Noord, en bekend om hun beste <em><strong>hotdogs van Europa!</strong></em></p>
-<p><img decoding="async" loading="lazy" alt="andys lunchroom" src="https://your-docusaurus-site.example.com/assets/images/andys-cafetaria-19080812574663-ff7f2779577688be8a6d38111876aa9b.jpg" width="630" height="378" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="andys lunchroom" src="https://your-docusaurus-site.example.com/food-blog/assets/images/andys-cafetaria-19080812574663-ff7f2779577688be8a6d38111876aa9b.jpg" width="630" height="378" class="img_ev3q"></p>
 <p>Ik had de <em>Chicago Dog</em></p>
-<p><img decoding="async" loading="lazy" alt="alt text" src="https://your-docusaurus-site.example.com/assets/images/andys-cafetaria-19080812573798-0347456971f569501c3078547490a178.jpg" width="630" height="378" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cijfers">Cijfers<a href="https://your-docusaurus-site.example.com/blog/andys#cijfers" class="hash-link" aria-label="Direct link to Cijfers" title="Direct link to Cijfers">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="alt text" src="https://your-docusaurus-site.example.com/food-blog/assets/images/andys-cafetaria-19080812573798-0347456971f569501c3078547490a178.jpg" width="630" height="378" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cijfers">Cijfers<a href="https://your-docusaurus-site.example.com/food-blog/blog/andys#cijfers" class="hash-link" aria-label="Direct link to Cijfers" title="Direct link to Cijfers">​</a></h2>
 <table><thead><tr><th>Persoon</th><th>Cijfer</th><th>Eten</th></tr></thead><tbody><tr><td>Jordy</td><td>8,7</td><td>Chicago Dog</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Welkom]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/welkom</link>
-            <guid>https://your-docusaurus-site.example.com/blog/welkom</guid>
+            <link>https://your-docusaurus-site.example.com/food-blog/blog/welkom</link>
+            <guid>https://your-docusaurus-site.example.com/food-blog/blog/welkom</guid>
             <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Welkom bij onze food blog! Elke dinsdag gaan we weer lunchen bij een nieuwe tent, en delen we onze ervaringen hier.]]></description>
             <content:encoded><![CDATA[<p>Welkom bij onze food blog! Elke dinsdag gaan we weer lunchen bij een nieuwe tent, en delen we onze ervaringen hier.</p>
-<p><img decoding="async" loading="lazy" alt="Hotdogs" src="https://your-docusaurus-site.example.com/assets/images/hotdogs-7a193f6cdec41f5fde646c3a4a32327f.png" width="421" height="710" class="img_ev3q"></p>]]></content:encoded>
+<p><img decoding="async" loading="lazy" alt="Hotdogs" src="https://your-docusaurus-site.example.com/food-blog/assets/images/hotdogs-7a193f6cdec41f5fde646c3a4a32327f.png" width="421" height="710" class="img_ev3q"></p>]]></content:encoded>
         </item>
     </channel>
 </rss>

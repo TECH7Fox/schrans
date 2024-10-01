@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfood_blog=self.webpackChunkfood_blog||[]).push([[731],{4047:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/food-blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
