@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>My Site Blog</title>
+    <updated>2024-10-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>My Site Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Andy's Lunchroom]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/andys</id>
+        <link href="https://your-docusaurus-site.example.com/blog/andys"/>
+        <updated>2024-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vandaag gingen we naar Andy's lunchroom. Een snacktent naast station Alkmaar Noord, en bekend om hun beste **hotdogs van Europa!**]]></summary>
+        <content type="html"><![CDATA[<p>Vandaag gingen we naar <a href="https://www.andyslunchroom.nl/" target="_blank" rel="noopener noreferrer">Andy's lunchroom</a>. Een snacktent naast station Alkmaar Noord, en bekend om hun beste <em><strong>hotdogs van Europa!</strong></em></p>
+<p><img decoding="async" loading="lazy" alt="andys lunchroom" src="https://your-docusaurus-site.example.com/assets/images/andys-cafetaria-19080812574663-ff7f2779577688be8a6d38111876aa9b.jpg" width="630" height="378" class="img_ev3q"></p>
+<p>Ik had de <em>Chicago Dog</em></p>
+<p><img decoding="async" loading="lazy" alt="alt text" src="https://your-docusaurus-site.example.com/assets/images/andys-cafetaria-19080812573798-0347456971f569501c3078547490a178.jpg" width="630" height="378" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cijfers">Cijfers<a href="https://your-docusaurus-site.example.com/blog/andys#cijfers" class="hash-link" aria-label="Direct link to Cijfers" title="Direct link to Cijfers">​</a></h2>
+<table><thead><tr><th>Persoon</th><th>Cijfer</th><th>Eten</th></tr></thead><tbody><tr><td>Jordy</td><td>8,7</td><td>Chicago Dog</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>]]></content>
+        <author>
+            <name>Jordy Kuhne</name>
+            <uri>https://github.com/TECH7Fox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welkom]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/welkom</id>
+        <link href="https://your-docusaurus-site.example.com/blog/welkom"/>
+        <updated>2024-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welkom bij onze food blog! Elke dinsdag gaan we weer lunchen bij een nieuwe tent, en delen we onze ervaringen hier.]]></summary>
+        <content type="html"><![CDATA[<p>Welkom bij onze food blog! Elke dinsdag gaan we weer lunchen bij een nieuwe tent, en delen we onze ervaringen hier.</p>
+<p><img decoding="async" loading="lazy" alt="Hotdogs" src="https://your-docusaurus-site.example.com/assets/images/hotdogs-7a193f6cdec41f5fde646c3a4a32327f.png" width="421" height="710" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Jordy Kuhne</name>
+            <uri>https://github.com/TECH7Fox</uri>
+        </author>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfood_blog=self.webpackChunkfood_blog||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Andy\'s Lunchroom","permalink":"/blog/andys","unlisted":false,"date":"2024-10-01T00:00:00.000Z"},{"title":"Welkom","permalink":"/blog/welkom","unlisted":false,"date":"2024-10-01T00:00:00.000Z"}]}')}}]);
