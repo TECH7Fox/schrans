@@ -7,7 +7,7 @@ export default function GiscusComponent() {
 
   return (
     <Giscus    
-      repo="TECH7Fox/food-blog"
+      repo="TECH7Fox/schrans"
       repoId="R_kgDOM56E1Q"
       category="Comments"
       categoryId="DIC_kwDOM56E1c4Ci9NH"
