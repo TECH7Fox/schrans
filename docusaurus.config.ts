@@ -1,6 +1,9 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import fs from 'fs';
+
+const url = fs.readFileSync('CNAME', 'utf8');
 
 const config: Config = {
   title: 'Tour de la Schrans',
@@ -8,7 +11,8 @@ const config: Config = {
   favicon: 'img/icon.png',
 
   // Set the production url of your site here
-  url: 'https://tourdelaschrans.nl',
+  // get url from CNAME file
+  url: 'https://' + url,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
