@@ -2,6 +2,7 @@
 slug: jacky
 title: Jacky
 authors: [jordykuhne]
+tags: [jacky]
 comments: true
 ---
 

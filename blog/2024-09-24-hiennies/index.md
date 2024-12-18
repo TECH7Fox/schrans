@@ -2,6 +2,7 @@
 slug: hiennies
 title: Hiennies
 authors: [jordykuhne]
+tags: [hiennies]
 comments: true
 ---
 

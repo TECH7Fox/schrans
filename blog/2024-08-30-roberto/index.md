@@ -3,6 +3,7 @@ slug: roberto
 title: Roberto
 authors: [jordykuhne]
 comments: true
+tags: [roberto]
 ---
 
 Voor de eerste tent van _Tour de la Schrans_ gingen we naar [Restaurant Roberto](https://roberto-alkmaar.nl/). Een Italiaans restaurant in Alkmaar, en bekend om hun beste _**pizza van Europa!**_

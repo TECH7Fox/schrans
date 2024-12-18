@@ -33,9 +33,11 @@ const config: Config = {
     [
       'classic',
       {
-        docs: false,
+        docs: {
+          sidebarPath: './sidebars.ts',
+        },
         blog: {
-          routeBasePath: '/',
+          routeBasePath: '/blog',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -61,6 +63,11 @@ const config: Config = {
         alt: 'Tour de la Schrans Logo',
         src: 'img/logo.png',
       },
+      items: [
+        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/docs/gescoord_en_geproefd', label: 'Restaurants', position: 'left'},
+        {to: '/blog/tags', label: 'The Food Index', position: 'left'},
+      ],
     },
     footer: {
       style: 'light',
