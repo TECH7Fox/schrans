@@ -19,7 +19,7 @@ export default function GiscusComponent() {
       inputPosition="top"
       theme={colorMode}
       lang="en"
-      loading="lazy"
+      loading="eager"
     />
   );
 }
