@@ -35,9 +35,10 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          routeBasePath: '/docs',
         },
         blog: {
-          routeBasePath: '/blog',
+          routeBasePath: '/',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -64,9 +65,9 @@ const config: Config = {
         src: 'img/logo.png',
       },
       items: [
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/', label: 'Blog', position: 'left'},
         {to: '/docs/gescoord_en_geproefd', label: 'Restaurants', position: 'left'},
-        {to: '/blog/tags', label: 'The Food Index', position: 'left'},
+        {to: '/tags', label: 'The Food Index', position: 'left'},
       ],
     },
     footer: {
