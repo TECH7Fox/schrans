@@ -72,6 +72,7 @@ const config: Config = {
         {to: '/', label: 'Blog', position: 'left'},
         {to: '/docs/gescoord_en_geproefd', label: 'Restaurants', position: 'left'},
         {to: '/tags', label: 'The Food Index', position: 'left'},
+        {to: '/authors', label: 'Auteurs', position: 'left'},
       ],
     },
     footer: {
