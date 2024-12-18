@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import fs from 'fs';
 
-const url = fs.readFileSync('CNAME', 'utf8');
+const url = fs.readFileSync('static/CNAME', 'utf8');
 
 const config: Config = {
   title: 'Tour de la Schrans',
