@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfood_blog=self.webpackChunkfood_blog||[]).push([[8417],{1109:a=>{a.exports=JSON.parse('{"tag":{"label":"andys","permalink":"/tags/andys","allTagsPath":"/tags","count":2,"unlisted":false},"listMetadata":{"permalink":"/tags/andys","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

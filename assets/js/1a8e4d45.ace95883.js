@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfood_blog=self.webpackChunkfood_blog||[]).push([[689],{5184:e=>{e.exports=JSON.parse('{"tag":{"label":"hiennies","permalink":"/tags/hiennies","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/hiennies","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
