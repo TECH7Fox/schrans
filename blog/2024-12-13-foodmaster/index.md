@@ -19,6 +19,13 @@ In conclusie, een prima plekje om snel wat te eten voor als je verdoemd ben om h
 
 ![groepsfoto](thumbnail.jpg)
 
+:::info
+
+We zijn nog opzoek naar nieuwe segmenten voor de blog.
+Dus als je suggesties hebt, laat het ons weten in de comments hieronder.
+
+:::
+
 ## De Rit
 
 Iets langer dan normaal, het is in Heerhugowaard. Maar die Bas reed als een gek, reed bijna door rood en een hek.

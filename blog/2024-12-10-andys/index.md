@@ -6,6 +6,13 @@ tags: [andys]
 comments: true
 ---
 
+## Bonus blog! 🎉
+
+Vandaag een bonus blog!
+Omdat we hier al een paar keer zijn geweest,
+en we al een blogpost hebben voor deze week,
+is dit een extraatje. Vandaar ook geen cijfers.
+
 We gingen weer eens naar [Andy's lunchroom](https://www.andyslunchroom.nl/).
 Voor als je de [eerste blogpost van Andy's](/andys) niet heb gelezen,
 dit is de snackbar waar ik verbaal werd aangevallen door meneer Andy zelf.
@@ -18,7 +25,7 @@ Ik weet nog steeds niet waarom we telkens terug blijven komen naar deze goddeloz
 Dit keer ging ik terug naar de klassieker, de *Chicago Dog*. Uiteraard keek Andy me weer raar aan toen ik vroeg zonder saus,
 maar ondertussen ben ik het gewend van hem. De hotdog was weer heerlijk, en dit keer waren de tafels niet zo plakkerig als normaal.
 
-## De Rit
+## De Rit 🔥
 
 De rit was weer levensgevaarlijk. We gingen met 2 auto's,
 de ene auto zat telkens te toeteren en te bumperkleven,

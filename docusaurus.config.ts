@@ -2,10 +2,23 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import fs from 'fs';
-
+import PluginOptions from '@easyops-cn/docusaurus-search-local';
 const url = fs.readFileSync('static/CNAME', 'utf8');
 
 const config: Config = {
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true,
+        language: 'nl',
+        indexBlog: true,
+        docsRouteBasePath: '/docs',
+        blogRouteBasePath: '/',
+      }),
+    ],
+  ],
   title: 'Tour de la Schrans',
   tagline: 'Foodblog over Alkmaar en omstreken',
   favicon: 'img/icon.png',

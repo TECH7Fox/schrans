@@ -19,6 +19,11 @@ Maar ik hoor je denken: Jordy, oliebollen is toch geen lunch?
 
 Was wel lekker. 10/10 zou weer schransen.
 
+## De Rit
+
+Voor mij was de rit prima, aangezien ik zelf reed.
+Maar ik hoorde van de andere dat er een spin in de auto zat waardoor er volledige paniek uitbarste.
+
 ## Cijfers
 
 Het spijt me lezer, maar we zijn helaas vergeten om een cijfer te geven.

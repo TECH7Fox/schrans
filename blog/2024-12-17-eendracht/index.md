@@ -19,6 +19,7 @@ Het duurde effe voordat we ons eten kregen, waarschijnlijk was Menno nog aan het
 
 Toen we het eten kregen was het wel lekker. De kaas kon wel beter gesmolten zijn.
 Maar de burger was goed, en de frietjes die we erbij hadden besteld waren lekker knapperig.
+Bas deed er nog wat extra zout op om zijn nieren te trainen.
 
 ![tafel](thumbnail.jpg)
 
