@@ -12,7 +12,7 @@ gesorteerd op datum van eerste bezoek.
 | De Eendracht | Alkmaar | **7,5** | [Website](https://www.deeendracht-alkmaar.nl/) | [Blogs](/tags/eendracht) |
 | Foodmaster | Heerhugowaard | **7,0** | [Website](https://foodmasterheerhugowaard.foodticket.nl/) | [Blogs](/tags/foodmaster) |
 | Blue District | Alkmaar | **7,1** | [Website](https://www.bluedistrict.nl/) | [Blogs](/tags/blue-district) |
-| De Waag | Alkmaar | **9,1** | [Website](https://www.dewaagalkmaar.nl/) | [Blogs](/tags/dewaag) |
+| De Waag | Alkmaar | **9,1** | [Website](https://www.dewaagalkmaar.nl/) | [Blogs](/tags/de-waag) |
 | Andy's Lunchroom | Alkmaar | **6,1** | [Website](https://www.andyslunchroom.nl/) | [Blogs](/tags/andys) |
 | Hiennies | Heerhugowaard | **8,5** | [Website](https://hiennies.sitedish.shop/) | [Blogs](/tags/hiennies) |
 | Jacky | Alkmaar | **8.6** | [Website](https://jackyalkmaar.nl/) | [Blogs](/tags/jacky) | 
