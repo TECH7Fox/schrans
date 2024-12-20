@@ -1,0 +1,1 @@
+(self.webpackChunkfood_blog=self.webpackChunkfood_blog||[]).push([[5741],{5741:()=>{}}]);
