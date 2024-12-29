@@ -4,6 +4,8 @@ title: Foodmaster Heerhugowaard
 authors: [jordykuhne]
 tags: [foodmaster]
 comments: true
+image: thumbnail.jpg
+keywords: [heerhugowaard, snackbar, food blog, restaurant, review]
 ---
 
 Vandaag gingen we naar... een snackbar? [Foodmaster Heerhugowaard](https://foodmasterheerhugowaard.foodticket.nl/) is een snackbar op de perron van station Heerhugowaard.

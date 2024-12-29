@@ -4,6 +4,8 @@ title: De Waag
 authors: [jordykuhne]
 tags: [de-waag]
 comments: true
+image: image.png
+keywords: [alkmaar, restaurant, review, blog, food blog, spare-ribs, de waag]
 ---
 
 Deze keer zijn we naar [De Waag](https://www.dewaagalkmaar.nl/) geweest. Een mooi restaurantje in Alkmaar, en bekend om hun _**beste broodje spare-ribs van Europa!**_

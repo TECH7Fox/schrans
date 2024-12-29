@@ -4,6 +4,8 @@ title: Andy's Lunchroom (Poging 3)
 authors: [jordykuhne]
 tags: [andys]
 comments: true
+image: thumbnail.jpg
+keywords: [hotdog, lunchroom, alkmaar, restaurant, review, blog, food blog, verbaal aangevallen]
 ---
 
 ## Bonus blog! 🎉

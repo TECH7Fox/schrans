@@ -4,6 +4,8 @@ title: Jacky (Revisited)
 authors: [jordykuhne]
 tags: [jacky]
 comments: true
+image: thumbnail.jpg
+keywords: [smash burger, jacky, alkmaar, restaurant, review, blog, food blog]
 ---
 
 Omdat Marthijn ziek was de vorige keer, zijn we nog een keer naar [Jacky](https://jackyalkmaar.nl/) geweest. Een mooi restaurantje in Alkmaar, waar ze toevalig ook de _**beste burgers van Europa hebben!**_

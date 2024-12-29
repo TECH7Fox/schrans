@@ -3,6 +3,8 @@ slug: welkom
 title: Welkom
 authors: [jordykuhne]
 comments: true
+image: img/logo.png
+keywords: [tour de la schrans, alkmaar, lunch, restaurant, review, blog, food blog]
 ---
 
 ## _Tour de la Schrans_, een gepassioneerd concept bedacht door een paar dikke gasten

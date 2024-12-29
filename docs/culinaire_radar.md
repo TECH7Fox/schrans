@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+keywords: [culinaire radar, restaurants, food blog, restaurant, review, reviews, alkmaar]
 ---
 
 # De Culinaire Radar

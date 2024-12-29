@@ -55,6 +55,7 @@ const config: Config = {
           routeBasePath: '/docs',
         },
         blog: {
+          blogSidebarCount: 20,
           routeBasePath: '/',
           showReadingTime: true,
           feedOptions: {

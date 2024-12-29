@@ -4,6 +4,8 @@ title: Blue District
 authors: [jordykuhne]
 tags: [blue-district]
 comments: true
+image: thumbnail.jpg
+keywords: [alkmaar, restaurant, review, food blog, blue district, burger]
 ---
 
 Voor deze week gingen we naar [Blue District](https://www.bluedistrict.nl/), een restaurant in Alkmaar, wat aangesloten zit aan de overprijsde winkel _OFM_ (Only for Men), en het restaurant reflecteert die prijzen ook. Maar, ze staan wel bekend om hun _**"Beste burgers naast een OFM" van Europa**_.

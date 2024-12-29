@@ -4,6 +4,8 @@ title: Oliebollen!
 authors: [jordykuhne]
 tags: [oliebollen]
 comments: true
+image: thumbnail.jpg
+keywords: [oliebollen, lunch, restaurant, review, blog, food blog, alkmaar, heerhugowaard]
 ---
 
 Yeahh! Vandaag gingen we naar de Intratuin in Heerhugowaard, waar een [oliebollenkraam](https://oliebollenkraamheerhugowaard.nl/) stond met, dit is niet eens een grap dit keer, de _**beste oliebollen van Noord-Holland!**_

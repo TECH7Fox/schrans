@@ -4,6 +4,8 @@ title: Hiennies
 authors: [jordykuhne]
 tags: [hiennies]
 comments: true
+image: image.png
+keywords: [heerhugowaard, streetfood, food blog, restaurant, review]
 ---
 
 Vandaag gingen we naar [Hiennies](https://hiennies.sitedish.shop/). Een streetfood tent in Heerhugowaard. Volgens vele hebben ze het _**beste streetfood van Europa!**_

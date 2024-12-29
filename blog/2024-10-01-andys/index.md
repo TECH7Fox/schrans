@@ -4,6 +4,8 @@ title: Andy's Lunchroom
 authors: [jordykuhne]
 tags: [andys]
 comments: true
+image: andys-cafetaria-19080812574663.jpg
+keywords: [hotdog, lunchroom, alkmaar, restaurant, review, blog, food blog, verbaal aangevallen]
 ---
 
 Vandaag gingen we naar [Andy's lunchroom](https://www.andyslunchroom.nl/). Een snacktent naast station Alkmaar Noord, en bekend om hun beste _**hotdogs van Europa!**_

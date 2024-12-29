@@ -4,6 +4,8 @@ title: De Eendracht
 authors: [jordykuhne]
 tags: [eendracht]
 comments: true
+image: thumbnail.jpg
+keywords: [alkmaar, lunch, restaurant, review, blog, food blog]
 ---
 
 Dit keer gingen we lunchen bij [De Eendracht](https://www.deeendracht-alkmaar.nl/). Het restaurant wat ik altijd dacht de "eend-racht" heete, maar blijkbaar de "een-dracht" heet. Anyways, een restaurant aan het water in de stad van Alkmaar, en bekend om hun beste _**"Hamburger aan het water in Alkmaar" van Europa!**_
